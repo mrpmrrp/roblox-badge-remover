@@ -8,10 +8,10 @@
 
 3. Use the following command to clone the repository  `git clone https://github.com/mrpmrrp/roblox-badge-remover`
 
-4. Install the asyncio and request packages `pip install requests asyncio`
+4. Install/update these packages `pip install requests json os colorama platform`
 
 5. Get your [ROBLOX](https://www.roblox.com/home) cookie [(google it im too lazy to tell you how)](https://www.youtube.com/results?search_query=how+get+roblox+cookie)
 
-6. Run `python main.py`, follow instructions and wait for it to finish
+6. Run `python main.py` OR double click start.bat, and wait for it to finish
 
-7. Profit? 
+7. Enjoy no badges on profile :D

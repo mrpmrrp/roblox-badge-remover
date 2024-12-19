@@ -12,6 +12,8 @@
 
 5. Get your [ROBLOX](https://www.roblox.com/home) cookie [(google it im too lazy to tell you how)](https://www.youtube.com/results?search_query=how+get+roblox+cookie)
 
-6. Run `python main.py` OR double click start.bat, and wait for it to finish
+6. Edit `config.json` and enter your cookie where indicated
 
-7. Enjoy no badges on profile :D
+7. Run `python main.py` OR double click start.bat, and wait for it to finish
+
+8. Enjoy no badges on profile :D
